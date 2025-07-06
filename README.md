@@ -1,47 +1,87 @@
-👋 Hi, I'm Vimalraj R!
-🚀 Aspiring Entrepreneur | Tech Enthusiast | AI & Data Science Student
+## 👋 About Me
 
-I’m passionate about leveraging AI, Blockchain, and Web Technologies to solve real-world problems and create impactful solutions. With a strong foundation in programming and a knack for problem-solving, I aim to build innovative projects that make a difference.
+I'm a passionate Artificial Intelligence and Data Science undergraduate at St. Joseph’s Institute of Technology, deeply exploring AI, Machine Learning, and Full Stack Development. My mission is to become a Machine Learning Engineer and craft solutions that make a real-world impact.
 
-🛠️ Skills & Tools
-#Programming Languages
-Java, Python, C
-#Data Science & AI
-Power BI, MATLAB, Spring Boot, MongoDB, AI Algorithms
-#Web Development
-UI/UX Design: Proficient in Figma, experience in cloning real-time apps like Netflix and Spotify
-Frontend & Backend Development
-#Other Tools
-Git, GitHub, MS Excel
-🎯 Current Goals
-Master Data Structures and Algorithms (160-day GeeksforGeeks challenge).
-Build impactful projects like the Smart Food Redistribution App and Freelancing Website for India.
-Participate in Hackathons and coding competitions to sharpen my skills.
-Improve English-speaking skills to enhance communication.
-💼 Professional Experience
-UI/UX Designer at Bigsibucks Innovations
-Developed innovative designs and interfaces for real-time projects.
-📚 Certifications
-AI Foundations
-Intro to RPA by UiPath
-HackerRank Java Basics Certification
-Digital 101
-🏆 Achievements
-Solved 1000+ programs on Skillrack, 70+ on LeetCode, and 50+ on HackerRank and GeeksforGeeks.
-Campus ambassador for MyGov, StackSchool, and SkillHub.
-Participated in Zoho Cliqtrix and various business plan competitions like Pitch-a-thon and Aarambam.
-📂 Highlighted Projects
-🌟 Amudra
-A Smart Food Redistribution System aiming to reduce food waste and feed communities using AI and Blockchain.
+---
 
-🌟 Freelancing Opportunities Platform
-A marketplace connecting freelancers with job opportunities in India, featuring AI-enabled insights and secure payment gateways.
+### 🧠 Skills & Tech Stack
 
-🌟 Netflix & Spotify Clones
-Designed engaging and responsive interfaces using Figma, gaining hands-on UI/UX experience.
+**Languages:**  
+- Python  
+- Java (Intermediate)  
+- C  
 
-📧 Contact Me
-Email:rv1870713@gmail.com
-LinkedIn: 
-Let’s connect and build something amazing together!
+**Technologies:**  
+- Machine Learning & Deep Learning  
+- Data Structures & Algorithms  
+- Full Stack Web Development (Spring Boot, HTML/CSS, Tailwind)  
+- REST APIs  
+- Git & GitHub  
 
+**Tools & Platforms:**  
+- VS Code, MATLAB, Power BI, Excel  
+- MongoDB, PostgreSQL  
+- UiPath (RPA)  
+- Figma, Canva  
+
+---
+
+### 🚀 Projects
+
+- **Amudra - Smart Food Redistribution System:**  
+  AI & blockchain-powered platform to reduce food waste by connecting donors with NGOs and shelters.
+
+- **Spot Finder - Smart Parking System:**  
+  Full-stack solution for real-time parking availability and booking, hardware-free.
+
+- **Code Time Machine:**  
+  AI debugging assistant for legacy code using Retrieval-Augmented Generation (RAG).
+
+- **Netflix/Spotify Clone UI:**  
+  Designed intuitive user interfaces with Figma, replicating popular streaming platforms.
+
+---
+
+### 🏆 Achievements
+
+- Solved 1000+ problems on Skillrack, 70+ on LeetCode, 50+ on HackerRank & GFG
+- Multiple certifications in AI, MongoDB, UiPath RPA, and more
+- Google Solution Challenge 2025 participant & multiple hackathons (Cyber Hackathon, Cliqtrix, etc.)
+- Winner in several coding contests and symposiums
+
+---
+
+### ✨ Fun Facts
+
+- Inspired by Tesla and automation to pursue AI  
+- Love building tech that solves real problems and empowers communities
+
+---
+
+### 🔗 Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/vimalraj-r2006)
+- [Medium: My Article on Amudra](https://medium.com/@rv1870713/amudra-ending-food-waste-feeding-those-in-need-c5498e0d298c)
+- [GitHub](https://github.com/Vimalraj-R)
+- [Portfolio](https://vimalfirstsite.neocities.org/vimalportfolio2/)
+- 📧 Email: rv1870713@gmail.com
+- ☎️ Phone: 8438435579
+
+---
+
+### 🧭 Mission Statement
+
+I believe in building technology that solves real problems, empowers communities, and bridges social gaps.
+
+---
+
+### 🔍 Currently Learning
+
+- DSA (50+ Problem Patterns)
+- Advanced Machine Learning
+
+---
+
+### 🛠 Preferred Tech Stack
+
+Python, Java, Spring Boot, React, MongoDB, PostgreSQL, Tailwind CSS
