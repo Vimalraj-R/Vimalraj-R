@@ -1,87 +1,47 @@
-## 👋 About Me
+# 👋 Hi, I'm Vimalraj R
 
-I'm a passionate Artificial Intelligence and Data Science undergraduate at St. Joseph’s Institute of Technology, deeply exploring AI, Machine Learning, and Full Stack Development. My mission is to become a Machine Learning Engineer and craft solutions that make a real-world impact.
-
----
-
-### 🧠 Skills & Tech Stack
-
-**Languages:**  
-- Python  
-- Java (Intermediate)  
-- C  
-
-**Technologies:**  
-- Machine Learning & Deep Learning  
-- Data Structures & Algorithms  
-- Full Stack Web Development (Spring Boot, HTML/CSS, Tailwind)  
-- REST APIs  
-- Git & GitHub  
-
-**Tools & Platforms:**  
-- VS Code, MATLAB, Power BI, Excel  
-- MongoDB, PostgreSQL  
-- UiPath (RPA)  
-- Figma, Canva  
+🎓 AI & Data Science Student | 💻 Full-Stack Developer | 🤖 ML Enthusiast  
+🚀 Passionate about building impactful tech for real-world problems
 
 ---
 
-### 🚀 Projects
-
-- **Amudra - Smart Food Redistribution System:**  
-  AI & blockchain-powered platform to reduce food waste by connecting donors with NGOs and shelters.
-
-- **Spot Finder - Smart Parking System:**  
-  Full-stack solution for real-time parking availability and booking, hardware-free.
-
-- **Code Time Machine:**  
-  AI debugging assistant for legacy code using Retrieval-Augmented Generation (RAG).
-
-- **Netflix/Spotify Clone UI:**  
-  Designed intuitive user interfaces with Figma, replicating popular streaming platforms.
+## 🔧 Tech Stack
+- **Languages:** Java, Python, C
+- **Web:** HTML, CSS, JavaScript, React, Django
+- **Database:** MySQL, PostgreSQL, MongoDB
+- **AI/ML:** Scikit-learn, Pandas, NumPy, Matplotlib
+- **Tools:** Git, GitHub, Power BI, Figma, VS Code
 
 ---
 
-### 🏆 Achievements
+## 📌 Projects
 
-- Solved 1000+ problems on Skillrack, 70+ on LeetCode, 50+ on HackerRank & GFG
-- Multiple certifications in AI, MongoDB, UiPath RPA, and more
-- Google Solution Challenge 2025 participant & multiple hackathons (Cyber Hackathon, Cliqtrix, etc.)
-- Winner in several coding contests and symposiums
+### 🛠️ [Amudra - Smart Food Redistribution System](https://github.com/vimalrajr/amudra)
+AI-based platform connecting food donors to NGOs in real-time with ML-powered food quality detection.
 
----
+### 🚗 [SpotFinder - Smart Parking System](https://github.com/vimalrajr/spotfinder)
+Web-based application to locate and reserve parking spots using real-time city data.
 
-### ✨ Fun Facts
+### 🎥 [Netflix Clone (UI)](https://github.com/vimalrajr/netflix-clone)
+Frontend UI designed in Figma, replicating Netflix layout and structure.
 
-- Inspired by Tesla and automation to pursue AI  
-- Love building tech that solves real problems and empowers communities
-
----
-
-### 🔗 Connect with Me
-
-- [LinkedIn](https://linkedin.com/in/vimalraj-r2006)
-- [Medium: My Article on Amudra](https://medium.com/@rv1870713/amudra-ending-food-waste-feeding-those-in-need-c5498e0d298c)
-- [GitHub](https://github.com/Vimalraj-R)
-- [Portfolio](https://vimalfirstsite.neocities.org/vimalportfolio2/)
-- 📧 Email: rv1870713@gmail.com
-- ☎️ Phone: 8438435579
+### 📘 [Leetcode Daily DSA Practice](https://github.com/vimalrajr/leetcode-solutions)
+Collection of DSA problems solved daily with explanations and optimized code.
 
 ---
 
-### 🧭 Mission Statement
-
-I believe in building technology that solves real problems, empowers communities, and bridges social gaps.
-
----
-
-### 🔍 Currently Learning
-
-- DSA (50+ Problem Patterns)
-- Advanced Machine Learning
+## 🏆 Achievements
+- Finalist – Google Solution Challenge 2025
+- Runner-up – SSN Symposium Coding Contest
+- Participant – Cyber Hackathon by Thoothukudi Police
 
 ---
 
-### 🛠 Preferred Tech Stack
+## 📫 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/vimalrajr)
+- 📨 Email: vimalrajaixr@gmail.com
 
-Python, Java, Spring Boot, React, MongoDB, PostgreSQL, Tailwind CSS
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=vimalrajr)
+![Top Language](https://img.shields.io/github/languages/top/vimalrajr/amudra)
