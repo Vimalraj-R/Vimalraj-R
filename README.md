@@ -7,9 +7,9 @@ I'm a passionate Artificial Intelligence and Data Science undergraduate at St. J
 ### 🧠 Skills & Tech Stack
 
 **Languages:**  
-![Python]  
-![Java (Intermediate)] 
-![C]
+Python  
+Java (Intermediate)
+C
 
 **Technologies:**  
 - Machine Learning & Deep Learning  
