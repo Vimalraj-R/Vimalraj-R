@@ -1,87 +1,27 @@
-## 👋 About Me
+# 💫 About Me:
+Hi there! I'm a B.Tech student specializing in Artificial Intelligence and Data Science (AIDS) at St. Joseph’s Institute of Technology.<br><br>I’m passionate about building intelligent systems, solving real-world problems, and continuously improving my problem-solving skills. I enjoy working with Data Structures & Algorithms, and I code primarily in Java and Python.<br><br>🚀 What I'm Working On<br>🔭 Currently building LifeConnect – a real-world AI-based project<br>🌱 Learning more about Machine Learning, Data Science & System Design<br>💻 Practicing DSA and competitive programming<br>🏆 Achievements<br>💡 Solved [400+] problems on coding platforms<br>🛠️ Developed LifeConnect project<br>📈 Continuously improving in problem-solving & algorithms<br>🛠️ Tech Stack<br>💻 Languages: Java, Python<br>📊 Core: Data Structures & Algorithms<br>🤖 Domain: AI, Machine Learning, Data Science<br>📫 Connect With Me<br>Phone.no: +91 8438435579<br>LinkedIn: https://linkedin.com/in/vimalraj-r2006
 
-I'm a passionate Artificial Intelligence and Data Science undergraduate at St. Joseph’s Institute of Technology, deeply exploring AI, Machine Learning, and Full Stack Development. My mission is to become a Machine Learning Engineer and craft solutions that make a real-world impact.
 
----
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://bsky.app/profile/vimalravi.bsky.social) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/vimalrajr5) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vimal._._.10) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_vimal_ravi_official._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/vimalraj-r2006) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@rv1870713) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/vimalrajravi272003/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Vimalraj-R-15) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Fast_Minute_6757/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rv1870713@gmail.com) 
 
-### 🧠 Skills & Tech Stack
+# 💻 Tech Stack:
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vimalraj R&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Vimalraj R&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vimalraj R&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-**Languages:**  
-Python  
-Java (Intermediate)
-C
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Vimalraj R&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-**Technologies:**  
-- Machine Learning & Deep Learning  
-- Data Structures & Algorithms  
-- Full Stack Web Development (Spring Boot, HTML/CSS, Tailwind)  
-- REST APIs  
-- Git & GitHub  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-**Tools & Platforms:**  
-- VS Code, MATLAB, Power BI, Excel  
-- MongoDB, PostgreSQL  
-- UiPath (RPA)  
-- Figma, Canva  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Vimalraj R&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Vimalraj R&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🚀 Projects
-
-- **Amudra - Smart Food Redistribution System:**  
-  AI & blockchain-powered platform to reduce food waste by connecting donors with NGOs and shelters.
-
-- **Spot Finder - Smart Parking System:**  
-  Full-stack solution for real-time parking availability and booking, hardware-free.
-
-- **Code Time Machine:**  
-  AI debugging assistant for legacy code using Retrieval-Augmented Generation (RAG).
-
-- **Netflix/Spotify Clone UI:**  
-  Designed intuitive user interfaces with Figma, replicating popular streaming platforms.
-
----
-
-### 🏆 Achievements
-
-- Solved 1000+ problems on Skillrack, 70+ on LeetCode, 50+ on HackerRank & GFG
-- Multiple certifications in AI, MongoDB, UiPath RPA, and more
-- Google Solution Challenge 2025 participant & multiple hackathons (Cyber Hackathon, Cliqtrix, etc.)
-- Winner in several coding contests and symposiums
-
----
-
-### ✨ Fun Facts
-
-- Inspired by Tesla and automation to pursue AI  
-- Love building tech that solves real problems and empowers communities
-
----
-
-### 🔗 Connect with Me
-
-- [LinkedIn](https://linkedin.com/in/vimalraj-r2006)
-- [Medium: My Article on Amudra](https://medium.com/@rv1870713/amudra-ending-food-waste-feeding-those-in-need-c5498e0d298c)
-- [GitHub](https://github.com/Vimalraj-R)
-- [Portfolio](https://vimalfirstsite.neocities.org/vimalportfolio2/)
-- 📧 Email: rv1870713@gmail.com
-- ☎️ Phone: 8438435579
-
----
-
-### 🧭 Mission Statement
-
-I believe in building technology that solves real problems, empowers communities, and bridges social gaps.
-
----
-
-### 🔍 Currently Learning
-
-- DSA (50+ Problem Patterns)
-- Advanced Machine Learning
-
----
-
-### 🛠 Preferred Tech Stack
-
-Python, Java, Spring Boot, React, MongoDB, PostgreSQL, Tailwind CSS
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
