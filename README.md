@@ -19,19 +19,6 @@
 
 ---
 
-## `$ whoami`
-
-```bash
-┌──(vimalraj@dev)─[~]
-└─$ cat about.txt
-
-  ██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗
-  ██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝
-  ██████╔╝██████╔╝██║   ██║█████╗  ██║██║     █████╗
-  ██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║     ██╔══╝
-  ██║     ██║  ██║╚██████╔╝██║     ██║███████╗███████╗
-  ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝
-
   → Undergraduate @ St. Joseph's Institute of Technology, Chennai
     B.Tech in AI & Data Science (2023–2027) | CGPA: 8.64 / 10
 
@@ -43,11 +30,7 @@
 
   → Interests: ML deployment · SLM fine-tuning · anomaly detection
                competitive programming · open-source
-```
 
----
-
-## `$ stats --overview`
 
 <div align="center">
 
