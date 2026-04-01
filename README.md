@@ -1,7 +1,3 @@
-<!-- Animated header banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:58a6ff&height=200&section=header&text=VIMALRAJ%20R&fontSize=60&fontFamily=Orbitron&fontColor=0d1117&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Chennai%2C%20IN&descAlignY=55&descAlign=50" width="100%"/>
-</div>
 
 <!-- Typing animation -->
 <div align="center">
