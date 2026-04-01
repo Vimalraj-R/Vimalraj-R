@@ -2,7 +2,7 @@
 <!-- Typing animation -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+intelligent+systems+%F0%9F%A4%96;National+Hackathon+Winner+%F0%9F%8F%86+Hack-India+2025;AI+%26+Data+Science+Undergraduate+%40+SJIT+Chennai;Open+to+Product-Engineering+%26+Data+Science+roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=VIMALRAJ+%F0%9F%A4%96;National+Hackathon+Winner+%F0%9F%8F%86+Hack-India+2025;AI+%26+Data+Science+Undergraduate+%40+SJIT+Chennai;Open+to+Product-Engineering+%26+Data+Science+roles)](https://git.io/typing-svg)
 
 </div>
 
