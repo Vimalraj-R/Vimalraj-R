@@ -1,19 +1,162 @@
-# 💫 About Me:
-Hi there! I'm a B.Tech student specializing in Artificial Intelligence and Data Science (AIDS) at St. Joseph’s Institute of Technology.<br><br>I’m passionate about building intelligent systems, solving real-world problems, and continuously improving my problem-solving skills. I enjoy working with Data Structures & Algorithms, and I code primarily in Java and Python.<br><br>🚀 What I'm Working On<br>🔭 Currently building LifeConnect – a real-world AI-based project<br>🌱 Learning more about Machine Learning, Data Science & System Design<br>💻 Practicing DSA and competitive programming<br>🏆 Achievements<br>💡 Solved [400+] problems on coding platforms<br>🛠️ Developed LifeConnect project<br>📈 Continuously improving in problem-solving & algorithms<br>🛠️ Tech Stack<br>💻 Languages: Java, Python<br>📊 Core: Data Structures & Algorithms<br>🤖 Domain: AI, Machine Learning, Data Science<br>📫 Connect With Me<br>Phone.no: +91 8438435579<br>LinkedIn: https://linkedin.com/in/vimalraj-r2006
+<!-- Header -->
+<div align="center">
 
+```
+██╗   ██╗██╗███╗   ███╗ █████╗ ██╗      ██████╗  █████╗      ██╗
+██║   ██║██║████╗ ████║██╔══██╗██║      ██╔══██╗██╔══██╗     ██║
+██║   ██║██║██╔████╔██║███████║██║      ██████╔╝███████║     ██║
+╚██╗ ██╔╝██║██║╚██╔╝██║██╔══██║██║      ██╔══██╗██╔══██║██   ██║
+ ╚████╔╝ ██║██║ ╚═╝ ██║██║  ██║███████╗ ██║  ██║██║  ██║╚█████╔╝
+  ╚═══╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝
+```
 
-# 💻 Tech Stack:
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### `> AI & Data Science Undergraduate · Chennai, IN`
 
+*Building intelligent systems, one model at a time.*
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vimalraj--r2006-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/vimalraj-r2006)
+[![GitHub](https://img.shields.io/badge/GitHub-Vimalraj--R-181717?style=flat-square&logo=github)](https://github.com/Vimalraj-R)
+[![Codolio](https://img.shields.io/badge/Codolio-Vimal2006-FF6B35?style=flat-square)](https://codolio.com/Vimal2006)
+[![Mail](https://img.shields.io/badge/Email-rv1870713-D14836?style=flat-square&logo=gmail)](mailto:rv1870713@gmail.com)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vimalraj R&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vimalraj R&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `whoami`
+
+```bash
+$ cat about.txt
+
+→  Undergraduate @ St. Joseph's Institute of Technology, Chennai
+   B.Tech in AI & Data Science (2023–2027) · CGPA: 8.64 / 10
+
+→  Data Scientist Intern @ Data Patterns, Chennai
+   Built web scraping pipelines for OSINT & trained an SLM on cybersecurity datasets
+
+→  National Hackathon Winner · Hack-India 2025 (500+ competing teams)
+
+→  Interests: ML deployment · SLM fine-tuning · anomaly detection
+               competitive programming · open-source
+```
+
+---
+
+## `stats --overview`
+
+<div align="center">
+
+| 🎓 CGPA | 🏆 Hackathon Rank | ⚡ Hackathons Competed | 📜 Certifications |
+|:---:|:---:|:---:|:---:|
+| **8.64 / 10** | **#1 at Hack-India 2025** | **10+** | **3** |
+
+</div>
+
+---
+
+## `git log --stack`
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+### ML / AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+### Frameworks & Tools
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EF4A23?style=flat-square&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+
+---
+
+## `ls ./projects`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛡️ QGuardian
+**AI-Based Academic Security System**
+
+Secure authentication platform with ML-powered anomaly detection. Random Forest + Isolation Forest detect suspicious user behaviour in real-time.
+
+`Python` `Isolation Forest` `Random Forest` `Flask` `Cryptography`
+
+</td>
+<td width="50%">
+
+### 🍱 Amudra
+**AI-Powered Food Redistribution System**
+
+Smart platform connecting restaurants & supermarkets with NGOs to reduce food waste. ML models evaluate food quality before donation.
+
+`Python` `Random Forest` `Flask` `SQLite` `Streamlit`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔍 CVModel
+**CNN Multi-Class Image Classifier**
+
+Trained on 10,000+ images — **89% validation accuracy** across 10 classes. Dropout reduced overfitting by ~18%. Live prediction UI.
+
+`Python` `TensorFlow/Keras` `CNN` `Streamlit`
+
+</td>
+<td width="50%">
+
+### 🤖 SLM — Cybersecurity (Internship)
+**Small Language Model @ Data Patterns**
+
+Fine-tuned SLM on cybersecurity datasets. Built Streamlit dashboard to visualise and query outputs for security analysis & OSINT workflows.
+
+`SLM fine-tuning` `Web Scraping` `Streamlit` `Cybersecurity`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `cat achievements.log`
+
+```
+[2025] 🏆  1st Place  — Hack-India 2025 (National, 500+ teams)
+[2025] 📌  10+ national & inter-college hackathons attended
+[2024] 🎓  Oracle Cloud Infrastructure AI Foundations Associate
+[2024] 📖  Intro to Machine Learning — NPTEL (IIT Madras)
+[2024] 🌐  Cambridge Linguaskill — Cambridge Assessment English
+[2024] 🚀  E-Cell IIT Bombay E-Summit — Startup & Entrepreneurship
+```
+
+---
+
+## `cat dsa_profile.txt`
+
+```
+Arrays · Linked Lists · Sorting (Merge / Quick) · Searching · Hashing
+SQL: JOINs · Aggregations · Subqueries · Window Functions (GROUP BY, HAVING)
+Platform: LeetCode | Language: Java & Python
+```
+
+---
+
+<div align="center">
+
+### `{ open to product-engineering & data science roles }`
+
+*"Data is the new oil — I help refine it."*
+
+![Profile views](https://komarev.com/ghpvc/?username=Vimalraj-R&color=00ff88&style=flat-square)
+
+</div>
