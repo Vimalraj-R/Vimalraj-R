@@ -41,12 +41,7 @@
 </div>
 
 <!-- GitHub Stats -->
-<div align="center">
 
-![Vimalraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vimalraj-R&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=58a6ff&text_color=e6edf3&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vimalraj-R&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=e6edf3)
-
-</div>
 
 <!-- Streak -->
 <div align="center">
@@ -55,9 +50,6 @@
 
 </div>
 
----
-
-## `$ git log --stack`
 
 <div align="center">
 
@@ -86,9 +78,7 @@
 
 </div>
 
----
 
-## `$ ls ./projects`
 
 <table>
 <tr>
