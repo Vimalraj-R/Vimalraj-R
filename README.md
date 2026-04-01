@@ -18,7 +18,7 @@
 </div>
 
 ---
-
+### About
   → Undergraduate @ St. Joseph's Institute of Technology, Chennai
     B.Tech in AI & Data Science (2023–2027) | CGPA: 8.64 / 10
 
