@@ -1,259 +1,189 @@
+
+<!-- Typing animation -->
 <div align="center">
 
-<img src="https://github.com/Vimalraj-R.png" width="150" style="border-radius:50%;" align="right"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2c5f7c&height=200&section=header&text=Vimalraj%20R&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Product-Engineering%20Focused&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=900&color=1E3A5F&center=true&vCenter=true&width=650&height=45&lines=Building+applied+ML+systems+end-to-end;National+Hackathon+Winner+%E2%80%94+Hack-India+2025;Fine-tuning+SLMs+for+cybersecurity+%40+Data+Patterns;Open+to+Product-Engineering+%26+Data+Science+roles)](https://git.io/typing-svg)
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1e3a5f?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vimalraj-r2006)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-2c5f7c?style=flat-square&logo=github&logoColor=white)](https://github.com/Vimalraj-R)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-3d7ea6?style=flat-square&logoColor=white)](https://portfolio-vimalraj.example.com)
-[![Codolio](https://img.shields.io/badge/Codolio-View_Profile-4e9dc4?style=flat-square&logoColor=white)](https://codolio.com/Vimal2006)
-[![Email](https://img.shields.io/badge/Email-Contact-1e3a5f?style=flat-square&logo=gmail&logoColor=white)](mailto:rv1870713@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=VIMALRAJ+%F0%9F%A4%96;National+Hackathon+Winner+%F0%9F%8F%86+Hack-India+2025;AI+%26+Data+Science+Undergraduate+%40+SJIT+Chennai;Open+to+Product-Engineering+%26+Data+Science+roles)](https://git.io/typing-svg)
 
 </div>
 
-<br>
-
-## Profile
-
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28"/>
-
-I'm an AI & Data Science undergraduate at St. Joseph's Institute of Technology, Chennai, currently working toward my B.Tech (2023–2027). I build applied ML systems — anomaly detection, fine-tuned language models, and agentic workflow automation — and I compete regularly in national hackathons and competitive programming.
-
-Most recently, I interned as a Data Scientist at **Data Patterns, Chennai**, where I built OSINT web-scraping pipelines and fine-tuned a Small Language Model for cybersecurity threat analysis.
-
-I'm currently looking for **Product Engineering** and **Data Science** roles where I can take ML systems from prototype to production.
-
-<br>
-
-## Snapshot
-
+<!-- Social badges -->
 <div align="center">
 
-| CGPA | Hackathon Wins | Hackathons Competed | DSA Problems Solved | Certifications | Projects Shipped |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 8.57 / 10 | 1st — Hack-India 2025 | 10+ | 500+ | 3 | 4+ |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vimalraj--r2006-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vimalraj-r2006)
+[![GitHub](https://img.shields.io/badge/GitHub-Vimalraj--R-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vimalraj-R)
+[![Codolio](https://img.shields.io/badge/Codolio-Vimal2006-FF6B35?style=for-the-badge&logoColor=white)](https://codolio.com/Vimal2006)
+[![Gmail](https://img.shields.io/badge/Email-rv1870713-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rv1870713@gmail.com)
+[![Phone](https://img.shields.io/badge/+91_84384_35579-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918438435579)
 
 </div>
 
-<br>
+---
+### About
+  → Undergraduate @ St. Joseph's Institute of Technology, Chennai
+    B.Tech in AI & Data Science (2023–2027) | CGPA: 8.64 / 10
 
-## Education
+  → Data Scientist Intern @ Data Patterns, Chennai
+    Built web scraping pipelines for OSINT & threat intelligence
+    Trained SLM on cybersecurity datasets + Streamlit dashboard
 
+  → 🏆 National Hackathon Winner — Hack-India 2025 (500+ teams)
+
+  → Interests: ML deployment · SLM fine-tuning · anomaly detection
+               competitive programming · open-source
+
+
+<div align="center">
+
+| 🎓 CGPA | 🏆 Hackathon | ⚡ Competed | 📜 Certs | 🔬 Projects |
+|:---:|:---:|:---:|:---:|:---:|
+| **8.64 / 10** | **#1 Hack-India 2025** | **10+ Hackathons** | **3** | **4+** |
+
+</div>
+
+<!-- GitHub Stats -->
+
+
+<!-- Streak -->
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Vimalraj-R&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=58a6ff&currStreakLabel=00ff88)
+
+</div>
+
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### ML / AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+### Frameworks & Tools
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EF4A23?style=flat-square&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+</div>
+
+
+### Projects
 <table>
 <tr>
-<td width="70%">
+<td width="50%" valign="top">
 
-**B.Tech — Artificial Intelligence & Data Science**
-St. Joseph's Institute of Technology, Chennai
+### 🛡️ QGuardian
+**AI-Based Academic Security System** `2025`
 
-**Higher Secondary — State Board**
-Mount Carmel Mission Matriculation Hr. Sec. School, Chennai
+Secure auth platform with **Random Forest + Isolation Forest** for real-time anomaly detection. Hashing techniques protect credentials.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Isolation Forest](https://img.shields.io/badge/-Isolation_Forest-00ff88?style=flat-square&logoColor=black)
+![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 </td>
-<td width="30%">
+<td width="50%" valign="top">
 
-2023 – 2027
-CGPA: **8.57 / 10**
+### 🍱 Amudra
+**AI-Powered Food Redistribution System** `2024`
 
-2021 – 2023
-**90.83%**
+Smart platform connecting **restaurants & supermarkets** with NGOs. ML models evaluate food quality & detect spoilage before donation.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Random Forest](https://img.shields.io/badge/-Random_Forest-00ff88?style=flat-square&logoColor=black)
+![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 CVModel
+**CNN Multi-Class Image Classifier** `2024`
+
+Trained on **10,000+ images** — **89% validation accuracy** across 10 classes. Dropout reduced overfitting by ~18%. Live Streamlit UI.
+
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![CNN](https://img.shields.io/badge/-CNN-58a6ff?style=flat-square&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 SLM — Cybersecurity
+**Small Language Model @ Data Patterns** `2025`
+
+Fine-tuned SLM on cybersecurity datasets. Web scraping pipelines for data collection. Streamlit dashboard for OSINT & threat intel.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SLM](https://img.shields.io/badge/-SLM_Fine--tuning-bf5af2?style=flat-square&logoColor=white)
+![OSINT](https://img.shields.io/badge/-OSINT-FF6B35?style=flat-square&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 </td>
 </tr>
 </table>
 
-<br>
+---
 
-## Experience
+## `$ cat achievements.log`
 
-**Data Scientist Intern** — Data Patterns, Chennai
-*May 2025 – June 2025*
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ACHIEVEMENT UNLOCKED                                            ║
+╠══════════════════════════════════════════════════════════════════╣
+║  [2025] 🏆  1ST PLACE — Hack-India 2025  (National · 500+ teams)║
+║  [2025] ⚡  10+ National & Inter-college Hackathons Competed     ║
+║  [2024] ☁️  Oracle Cloud Infrastructure AI Foundations Associate ║
+║  [2024] 📖  Intro to Machine Learning — NPTEL (IIT Madras)      ║
+║  [2024] 🌐  Cambridge Linguaskill — Cambridge Assessment English ║
+║  [2024] 🚀  E-Cell IIT Bombay E-Summit (Startup & Entrepreneur) ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-- Built web scraping pipelines to collect, clean, and transform raw data into structured datasets for machine learning and cybersecurity analysis.
-- Fine-tuned a Small Language Model (SLM) on cybersecurity datasets and developed a Streamlit dashboard to visualize and query model outputs for OSINT and threat intelligence use cases.
+---
 
-<br>
+## `$ cat dsa.txt`
 
-## Technical Skills
+```
+Arrays · Linked Lists · Sorting (Merge / Quick) · Searching · Hashing
+SQL: JOINs · Aggregations · Subqueries · Window Functions (GROUP BY, HAVING)
+Platform: LeetCode  |  Languages: Java & Python
+```
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Languages**
-- Python
-- Java
-- SQL
-- HTML / CSS / JavaScript
-
-</td>
-<td valign="top" width="33%">
-
-**ML / AI**
-- Random Forest · Isolation Forest
-- CNN · Classification · Regression
-- SLM Fine-Tuning
-- Scikit-learn · TensorFlow / Keras
-
-</td>
-<td valign="top" width="33%">
-
-**Frameworks & Data**
-- Flask · Streamlit
-- Power BI · Fivetran
-- SQL · NoSQL
-- MySQL Workbench · SQLite
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="33%">
-
-**Tools**
-- Git · GitHub
-- VS Code · Google Colab
-- n8n (workflow automation)
-
-</td>
-<td valign="top" width="33%">
-
-**Prompt Engineering**
-- Zero-Shot · Few-Shot
-- Role-Based Prompting
-- Chain-of-Thought
-- Structured Prompting
-
-</td>
-<td valign="top" width="33%">
-
-**Core CS / DSA**
-- Arrays · Linked Lists
-- Sorting · Searching · Hashing
-- SQL Joins, Aggregations, Window Functions
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### QGuardian
-**AI-Based Academic Security System** · 2025
-
-Secure web authentication platform using Flask and cryptographic hashing. Applied Random Forest and Isolation Forest models for real-time anomalous user-behavior detection.
-
-`Python` `Isolation Forest` `Random Forest` `Flask` `Streamlit`
-
-</td>
-<td width="50%" valign="top">
-
-### Event Scheduler Agent
-**AI-Powered Workflow Automation** · 2024
-
-Agentic scheduling system built on n8n, using event-driven pipelines with real-time triggers and conditional branching to automate meeting, appointment, and business workflows without manual intervention.
-
-`Python` `n8n` `AI Agent` `Workflow Automation`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Amudra
-**AI-Powered Food Redistribution System** · 2024
-
-Platform connecting restaurants and supermarkets with NGOs. ML models assess food quality and detect spoilage before donation to reduce waste.
-
-`Python` `Random Forest` `Flask` `SQLite`
-
-</td>
-<td width="50%" valign="top">
-
-### CVModel
-**CNN Multi-Class Image Classifier** · 2024
-
-CNN trained on 10,000+ images across 10 classes, reaching 89% validation accuracy. Dropout regularization cut overfitting by ~18%. Deployed via a live Streamlit interface.
-
-`TensorFlow` `Keras` `CNN` `Streamlit`
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>SLM for Cybersecurity — Data Patterns Internship</b></summary>
-<br>
-
-Fine-tuned a Small Language Model on cybersecurity datasets during my internship at Data Patterns. Built the underlying web-scraping pipelines to collect and structure raw OSINT data, then shipped a Streamlit dashboard to query and visualize model outputs for threat-intelligence analysis.
-
-`Python` `SLM Fine-Tuning` `OSINT` `Streamlit`
-
-</details>
-
-<br>
-
-## Achievements
-
-| Year | Achievement |
-|:---:|:---|
-| 2025 | **1st Place — Hack-India 2025** (National Hackathon, 500+ competing teams) |
-| 2025 | Competed in 10+ national and inter-college hackathons |
-| 2024 | Participated in E-Cell IIT Bombay E-Summit (startup & entrepreneurship) |
-
-## Certifications
-
-| Certification | Issuer | Year |
-|:---|:---|:---:|
-| Oracle Cloud Infrastructure AI Foundations Associate | Oracle | 2024 |
-| Intro to Machine Learning | NPTEL, IIT Madras | 2024 |
-| Cambridge Linguaskill | Cambridge Assessment English | 2024 |
-
-<br>
-
-## GitHub Activity
-
+<!-- Activity graph -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vimalraj-R&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1e3a5f&icon_color=3d7ea6&text_color=333333" width="60%"/>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vimalraj-R&bg_color=ffffff&color=1e3a5f&line=3d7ea6&point=1e3a5f&hide_border=true" width="97%"/>
-
-<br>
-
-<!-- Animated contribution snake — requires a one-time GitHub Action in this repo, see note below -->
-<img src="https://raw.githubusercontent.com/Vimalraj-R/Vimalraj-R/output/github-contribution-grid-snake.svg" width="97%"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vimalraj-R&theme=react-dark&bg_color=0d1117&color=00ff88&line=58a6ff&point=00ff88&hide_border=true)
 
 </div>
 
-<br>
+---
 
-## Let's Connect
-
-I'm open to product-engineering and data science opportunities, and always glad to talk ML systems, agentic workflows, or competitive programming.
-
+<!-- Footer wave -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e3a5f?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vimalraj-r2006)
-[![Email](https://img.shields.io/badge/Email-2c5f7c?style=flat-square&logo=gmail&logoColor=white)](mailto:rv1870713@gmail.com)
-[![Phone](https://img.shields.io/badge/+91_84384_35579-3d7ea6?style=flat-square&logo=whatsapp&logoColor=white)](tel:+918438435579)
+### `{ open to product-engineering & data science roles }`
 
-<br>
+*"Data is the new oil — I help refine it."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5f7c,100:1e3a5f&height=100&section=footer" width="100%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Vimalraj-R&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:00ff88&height=120&section=footer" width="100%"/>
 
 </div>
