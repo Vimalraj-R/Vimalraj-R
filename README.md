@@ -1,4 +1,3 @@
-
 <!-- Typing animation -->
 <div align="center">
 
@@ -11,6 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vimalraj--r2006-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vimalraj-r2006)
 [![GitHub](https://img.shields.io/badge/GitHub-Vimalraj--R-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vimalraj-R)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Vimalraj-00FF88?style=for-the-badge&logoColor=black)](https://portfolio-vimalraj.example.com)
 [![Codolio](https://img.shields.io/badge/Codolio-Vimal2006-FF6B35?style=for-the-badge&logoColor=white)](https://codolio.com/Vimal2006)
 [![Gmail](https://img.shields.io/badge/Email-rv1870713-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rv1870713@gmail.com)
 [![Phone](https://img.shields.io/badge/+91_84384_35579-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918438435579)
@@ -20,28 +20,27 @@
 ---
 ### About
   → Undergraduate @ St. Joseph's Institute of Technology, Chennai
-    B.Tech in AI & Data Science (2023–2027) | CGPA: 8.64 / 10
+    B.Tech in AI & Data Science (2023–2027) | CGPA: 8.57 / 10
 
-  → Data Scientist Intern @ Data Patterns, Chennai
+  → Data Scientist Intern @ Data Patterns, Chennai (May–Jun 2025)
     Built web scraping pipelines for OSINT & threat intelligence
     Trained SLM on cybersecurity datasets + Streamlit dashboard
 
   → 🏆 National Hackathon Winner — Hack-India 2025 (500+ teams)
 
+  → 🧩 500+ problems solved across LeetCode & competitive programming platforms
+
   → Interests: ML deployment · SLM fine-tuning · anomaly detection
-               competitive programming · open-source
+               agentic workflow automation · competitive programming · open-source
 
 
 <div align="center">
 
-| 🎓 CGPA | 🏆 Hackathon | ⚡ Competed | 📜 Certs | 🔬 Projects |
-|:---:|:---:|:---:|:---:|:---:|
-| **8.64 / 10** | **#1 Hack-India 2025** | **10+ Hackathons** | **3** | **4+** |
+| 🎓 CGPA | 🏆 Hackathon | ⚡ Competed | 🧩 DSA Solved | 📜 Certs | 🔬 Projects |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **8.57 / 10** | **#1 Hack-India 2025** | **10+ Hackathons** | **500+** | **3** | **4+** |
 
 </div>
-
-<!-- GitHub Stats -->
-
 
 <!-- Streak -->
 <div align="center">
@@ -59,6 +58,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### ML / AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -66,15 +66,24 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-### Frameworks & Tools
+### Frameworks, Data & Tools
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![n8n](https://img.shields.io/badge/n8n-EF4A23?style=flat-square&logo=n8n&logoColor=white)
+![Fivetran](https://img.shields.io/badge/Fivetran-4056EA?style=flat-square&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### Prompt Engineering
+![Zero-Shot](https://img.shields.io/badge/-Zero--Shot-bf5af2?style=flat-square&logoColor=white)
+![Few-Shot](https://img.shields.io/badge/-Few--Shot-bf5af2?style=flat-square&logoColor=white)
+![Role-Based](https://img.shields.io/badge/-Role--Based-bf5af2?style=flat-square&logoColor=white)
+![Chain-of-Thought](https://img.shields.io/badge/-Chain--of--Thought-bf5af2?style=flat-square&logoColor=white)
+![Structured Prompting](https://img.shields.io/badge/-Structured_Prompting-bf5af2?style=flat-square&logoColor=white)
 
 </div>
 
@@ -87,7 +96,7 @@
 ### 🛡️ QGuardian
 **AI-Based Academic Security System** `2025`
 
-Secure auth platform with **Random Forest + Isolation Forest** for real-time anomaly detection. Hashing techniques protect credentials.
+Secure auth platform with **Random Forest + Isolation Forest** for real-time anomaly detection. Cryptographic hashing protects user credentials.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Isolation Forest](https://img.shields.io/badge/-Isolation_Forest-00ff88?style=flat-square&logoColor=black)
@@ -95,6 +104,21 @@ Secure auth platform with **Random Forest + Isolation Forest** for real-time ano
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 </td>
+<td width="50%" valign="top">
+
+### ⚙️ Event Scheduler Agent
+**AI-Powered Workflow Automation** `2024`
+
+Agentic scheduling system built on **n8n** — event-driven pipelines with real-time triggers, conditional branching, and automated notifications for meetings & appointments.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EF4A23?style=flat-square&logo=n8n&logoColor=white)
+![AI Agent](https://img.shields.io/badge/-AI_Agent-58a6ff?style=flat-square&logoColor=white)
+![Automation](https://img.shields.io/badge/-Workflow_Automation-00ff88?style=flat-square&logoColor=black)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🍱 Amudra
@@ -108,14 +132,12 @@ Smart platform connecting **restaurants & supermarkets** with NGOs. ML models ev
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🔍 CVModel
 **CNN Multi-Class Image Classifier** `2024`
 
-Trained on **10,000+ images** — **89% validation accuracy** across 10 classes. Dropout reduced overfitting by ~18%. Live Streamlit UI.
+Trained on **10,000+ images** — **89% validation accuracy** across 10 classes. Dropout cut overfitting by ~18%. Live Streamlit UI.
 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
@@ -123,21 +145,21 @@ Trained on **10,000+ images** — **89% validation accuracy** across 10 classes.
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
 
-### 🤖 SLM — Cybersecurity
-**Small Language Model @ Data Patterns** `2025`
+<details>
+<summary><b>🤖 SLM — Cybersecurity Fine-Tuning (Data Patterns Internship)</b></summary>
+<br>
 
-Fine-tuned SLM on cybersecurity datasets. Web scraping pipelines for data collection. Streamlit dashboard for OSINT & threat intel.
+Fine-tuned a Small Language Model on cybersecurity datasets during my internship at Data Patterns, Chennai. Built web scraping pipelines to collect and structure raw OSINT data, then shipped a Streamlit dashboard for querying and visualising model outputs — used for threat intelligence analysis.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SLM](https://img.shields.io/badge/-SLM_Fine--tuning-bf5af2?style=flat-square&logoColor=white)
 ![OSINT](https://img.shields.io/badge/-OSINT-FF6B35?style=flat-square&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
@@ -152,7 +174,7 @@ Fine-tuned SLM on cybersecurity datasets. Web scraping pipelines for data collec
 ║  [2024] ☁️  Oracle Cloud Infrastructure AI Foundations Associate ║
 ║  [2024] 📖  Intro to Machine Learning — NPTEL (IIT Madras)      ║
 ║  [2024] 🌐  Cambridge Linguaskill — Cambridge Assessment English ║
-║  [2024] 🚀  E-Cell IIT Bombay E-Summit (Startup & Entrepreneur) ║
+║  [2024] 🚀  E-Cell IIT Bombay E-Summit (Startup & Entrepreneurship)║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -163,7 +185,7 @@ Fine-tuned SLM on cybersecurity datasets. Web scraping pipelines for data collec
 ```
 Arrays · Linked Lists · Sorting (Merge / Quick) · Searching · Hashing
 SQL: JOINs · Aggregations · Subqueries · Window Functions (GROUP BY, HAVING)
-Platform: LeetCode  |  Languages: Java & Python
+Platform: LeetCode  |  Solved: 500+  |  Languages: Java & Python
 ```
 
 <!-- Activity graph -->
