@@ -1,10 +1,12 @@
 <div align="center">
-<img src="" width="150" style="border-radius:50%;" align="right"/>
+
+<img src="https://github.com/Vimalraj-R.png" width="150" style="border-radius:50%;" align="right"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2c5f7c&height=200&section=header&text=Vimalraj%20R&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Product-Engineering%20Focused&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=900&color=1E3A5F&center=true&vCenter=true&width=650&height=45&lines=Building+applied+ML+systems+end-to-end;National+Hackathon+Winner+%E2%80%94+Hack-India+2025;Fine-tuning+SLMs+for+cybersecurity+%40+Data+Patterns;Open+to+Product-Engineering+%26+Data+Science+roles)]([https://git.io/typing-svg]((https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=900&color=1E3A5F&center=true&vCenter=true&width=650&height=45&lines=Building+applied+ML+systems+end-to-end;National+Hackathon+Winner+%E2%80%94+Hack-India+2025;Fine-tuning+SLMs+for+cybersecurity+%40+Data+Patterns;Open+to+Product-Engineering+%26+Data+Science+roles)](https://git.io/typing-svg)
 
 <br>
 
