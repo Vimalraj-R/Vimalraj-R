@@ -4,7 +4,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=900&color=1E3A5F&center=true&vCenter=true&width=650&height=45&lines=Building+applied+ML+systems+end-to-end;National+Hackathon+Winner+%E2%80%94+Hack-India+2025;Fine-tuning+SLMs+for+cybersecurity+%40+Data+Patterns;Open+to+Product-Engineering+%26+Data+Science+roles)]([https://git.io/typing-svg](https://github.com/Vimalraj-R/Vimal-s_image))
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=900&color=1E3A5F&center=true&vCenter=true&width=650&height=45&lines=Building+applied+ML+systems+end-to-end;National+Hackathon+Winner+%E2%80%94+Hack-India+2025;Fine-tuning+SLMs+for+cybersecurity+%40+Data+Patterns;Open+to+Product-Engineering+%26+Data+Science+roles)]([https://git.io/typing-svg]((https://git.io/typing-svg)
 
 <br>
 
