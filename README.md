@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1e3a5f?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vimalraj-r2006)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-2c5f7c?style=flat-square&logo=github&logoColor=white)](https://github.com/Vimalraj-R)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-3d7ea6?style=flat-square&logoColor=white)](https://vimalraj-r.github.io/PORTFOLIO_VIMALRAJ/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-3d7ea6?style=flat-square&logoColor=white)](https://portfolio-vimalraj.example.com)
 [![Codolio](https://img.shields.io/badge/Codolio-View_Profile-4e9dc4?style=flat-square&logoColor=white)](https://codolio.com/Vimal2006)
 [![Email](https://img.shields.io/badge/Email-Contact-1e3a5f?style=flat-square&logo=gmail&logoColor=white)](mailto:rv1870713@gmail.com)
 
@@ -219,8 +219,7 @@ Fine-tuned a Small Language Model on cybersecurity datasets during my internship
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vimalraj-R&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1e3a5f&icon_color=3d7ea6&text_color=333333" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=Vimalraj-R&hide_border=true&background=ffffff&ring=1e3a5f&fire=3d7ea6&currStreakLabel=1e3a5f" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vimalraj-R&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1e3a5f&icon_color=3d7ea6&text_color=333333" width="60%"/>
 
 <br>
 
