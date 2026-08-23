@@ -4,6 +4,10 @@
 
 <br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=900&color=1E3A5F&center=true&vCenter=true&width=650&height=45&lines=Building+applied+ML+systems+end-to-end;National+Hackathon+Winner+%E2%80%94+Hack-India+2025;Fine-tuning+SLMs+for+cybersecurity+%40+Data+Patterns;Open+to+Product-Engineering+%26+Data+Science+roles)](https://git.io/typing-svg)
+
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1e3a5f?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vimalraj-r2006)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-2c5f7c?style=flat-square&logo=github&logoColor=white)](https://github.com/Vimalraj-R)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-3d7ea6?style=flat-square&logoColor=white)](https://portfolio-vimalraj.example.com)
@@ -15,6 +19,8 @@
 <br>
 
 ## Profile
+
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28"/>
 
 I'm an AI & Data Science undergraduate at St. Joseph's Institute of Technology, Chennai, currently working toward my B.Tech (2023–2027). I build applied ML systems — anomaly detection, fine-tuned language models, and agentic workflow automation — and I compete regularly in national hackathons and competitive programming.
 
@@ -224,6 +230,11 @@ Fine-tuned a Small Language Model on cybersecurity datasets during my internship
 <br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vimalraj-R&bg_color=ffffff&color=1e3a5f&line=3d7ea6&point=1e3a5f&hide_border=true" width="97%"/>
+
+<br>
+
+<!-- Animated contribution snake — requires a one-time GitHub Action in this repo, see note below -->
+<img src="https://raw.githubusercontent.com/Vimalraj-R/Vimalraj-R/output/github-contribution-grid-snake.svg" width="97%"/>
 
 </div>
 
