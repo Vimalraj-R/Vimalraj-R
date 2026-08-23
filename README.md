@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="" width="150" style="border-radius:50%;" align="right"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2c5f7c&height=200&section=header&text=Vimalraj%20R&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Product-Engineering%20Focused&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
 
 <br>
